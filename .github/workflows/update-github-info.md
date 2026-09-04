@@ -41,3 +41,4 @@ Use GitHub repository API tools for repository guidance and reference files. Do 
 Update `site/content/github-info.md` with accurate, concise information based on the sources and repository guidance. Preserve the existing structure and writing style, and make no unrelated changes.
 
 When the content needs updating, use the edit tool and then use the `create-pull-request` safe output to open one draft pull request for Mona to review. Include a concise summary of the changes and the official sources consulted in the pull request body. Do not write directly to the default branch. If no update is needed, do not open a pull request.
+roy compose
