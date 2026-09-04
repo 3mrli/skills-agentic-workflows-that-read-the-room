@@ -17,6 +17,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 safe-outputs:
   create-pull-request:
     title-prefix: "[mona] "
@@ -33,6 +34,7 @@ Use `web-fetch` to read these official public sources:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
 Use GitHub repository API tools for repository guidance and reference files. Do not use terminal, CLI, or sandboxed commands for GitHub API reads.
 
